@@ -2,7 +2,7 @@
 
 This project is a **Python-based Subnet Calculator** with a simple **Tkinter graphical user interface**, developed during **Semester 3 of my Master’s degree** while studying **Networking, Switching, and Network Administration**.
 
-Subnetting isn’t my favorite topic 😅, so instead of memorising formulas, I built a tool to **automate subnet calculations** and reinforce my understanding in a practical way.
+Subnetting isn’t my favorite topic, so instead of memorising formulas, I built a tool to **automate subnet calculations** and reinforce my understanding in a practical way.
 
 ---
 
